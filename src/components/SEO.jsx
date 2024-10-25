@@ -15,7 +15,6 @@ const SEO = () => {
             description
             url
             image
-            twitterUsername
           }
         }
       }
