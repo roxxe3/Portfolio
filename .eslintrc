@@ -1,0 +1,25 @@
+{
+  "globals": {
+    "__PATH_PREFIX__": true
+  },
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": ["airbnb", "airbnb/hooks", "prettier"],
+  "rules": {
+    "import/prefer-default-export": "off",
+    "react-hooks/exhaustive-deps": "warn",
+    "react-hooks/rules-of-hooks": "error",
+    "react/destructuring-assignment": "off",
+    "react/function-component-definition": [
+      2,
+      { "namedComponents": "arrow-function" }
+    ],
+    "react/jsx-filename-extension": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/prop-types": "off"
+  },
+  "ignorePatterns": ["src/html.js"]
+}
