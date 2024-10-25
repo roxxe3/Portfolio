@@ -6,6 +6,9 @@
     "url": "https://github.com/bdbaraban/bdov.dev"
   },
   "private": true,
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@mdx-js/react": "^1.6.22",
