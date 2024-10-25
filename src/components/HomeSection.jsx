@@ -26,7 +26,7 @@ const HomeSection = () => (
       </Text>
       <Text>- Hamza</Text>
       <Image
-        src="/take-your-time.gif"
+        src="/Cat-Stronaut_orbit.gif"
         alt="Persona 5 Take Your Time gif"
         sx={{ width: '10em', height: '10em', objectFit: 'cover' }}
       />
