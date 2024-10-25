@@ -11,17 +11,17 @@ const HomeSection = () => (
   <Section updatedAt={updatedAt}>
     <Content>
       <Text>
-        Wow, hello! Thank you for visiting my domain.{' '}
-        <Emoji symbol="🗻" label="mount fuji" />
+      Welcome to My Domain! {' '}
+        <Emoji symbol="🐱" label="Meow" />
       </Text>
       <Text>
-        I know not what brings you here - maybe you are a lost acquaintance
-        perusing my online profile; perchance you are a recruiter I like to
-        imagine were led here via my job portfolio; more likely, you are a bot,
-        scraping for that juicy, personal data - regardless, welcome.
+      I’m glad you’re here! Whether you stumbled upon this site as a curious friend, 
+      a recruiter exploring my work, or simply someone browsing the web, I appreciate your visit. 
+      This is my personal space to showcase my journey, skills, and projects. Feel free to explore, 
+      and don’t hesitate to reach out if you’d like to connect!
       </Text>
       <Text>
-        This site is a simple space, but my own; take your time clicking around,
+        This site is a simple space, take your time clicking around,
         and please do reach out!
       </Text>
       <Text>- Hamza</Text>

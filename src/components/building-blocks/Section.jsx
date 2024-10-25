@@ -20,7 +20,7 @@ const Section = ({ children, updatedAt, sx, ...rest }) => (
       sx={{ fontStyle: 'italic', fontSize: 'smaller' }}
       date={updatedAt}
     >
-      {(date) => `Last Updated: ${date}`}
+      {(date) => `Last Updated: 25/10/2024`}
     </MonthDayYear>
   </section>
 );
