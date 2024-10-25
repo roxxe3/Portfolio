@@ -88,7 +88,7 @@ const CareerSection = () => (
           >
           University Hassan II
           </Link>
-        as an undergraduate,
+         as an undergraduate,
         where I received a Bachelor's Degree in Economics and Management,
         focusing on the principles of economics and management.
         This program provided an interdisciplinary foundation in economic theories,

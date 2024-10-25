@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Brennan D Baraban',
-    titleTemplate: '%s · Brennan D Baraban',
+    title: 'Hamza Farissi',
+    titleTemplate: '%s · Hamza Farissi',
     description: 'This is my personal domain - welcome!',
     url: 'https://bdov.dev',
     image: '/og.png',

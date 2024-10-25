@@ -24,7 +24,7 @@ const HomeSection = () => (
         This site is a simple space, but my own; take your time clicking around,
         and please do reach out!
       </Text>
-      <Text>- Brennan</Text>
+      <Text>- Hamza</Text>
       <Image
         src="/take-your-time.gif"
         alt="Persona 5 Take Your Time gif"
